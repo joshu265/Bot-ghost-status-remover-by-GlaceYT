@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Playing VALORANT"];
+const statusMessages = ["Powered by EHRPC","Offical EHRPC Bot"];
 
 
 let currentIndex = 0;
